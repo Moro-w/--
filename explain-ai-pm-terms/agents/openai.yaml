@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI PM 术语解释器"
+  short_description: "用四维框架清楚拆解 AI 产品、模型、Agent 与工程技术术语"
+  default_prompt: "使用 $explain-ai-pm-terms 解释这个 AI PM 术语，并给出必要的理解链。"
